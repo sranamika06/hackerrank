@@ -15,3 +15,6 @@ Problem Statement:Given a 6 x 6 2D array,arr, an hourglass is a subset of values
 
 📌 Day 4: Dyanmic Array Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed. Declare an integer,last Answer, and initialize it to 0.# hackerrank
 100 days hackerrank challenge
+📌 Day 5: Left rotation
+
+Problem Statement:A Left rotation operation on a circular array shifts each of the array's elements 1 unit to the left. The elements that fall off the left end reappear at the right end. Given an integer d , rotate the array that many steps to the left and return the result
