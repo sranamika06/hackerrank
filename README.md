@@ -18,3 +18,7 @@ Problem Statement:Given a 6 x 6 2D array,arr, an hourglass is a subset of values
 📌 Day 5: Left rotation
 
 Problem Statement:A Left rotation operation on a circular array shifts each of the array's elements 1 unit to the left. The elements that fall off the left end reappear at the right end. Given an integer d , rotate the array that many steps to the left and return the result
+
+📌 Day 6: String Similarity
+
+Problem Statement:Calculate the sum of similarities of a string S with each of it's suffixes.
